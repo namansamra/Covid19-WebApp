@@ -1,0 +1,10 @@
+.formControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+}
+
+.select{
+    background-color: rgb(39, 36, 36);
+    color: white;
+    margin-left: 10px;
+}

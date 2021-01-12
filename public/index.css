@@ -1,0 +1,14 @@
+.container-footer{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(29, 28, 28);
+    color: white;
+    text-align: center;
+    margin-top: 50px ;
+    padding: 10px;
+    box-shadow: 2px 2px 0 0  black;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+     font-family: 'Lakki Reddy';
+
+}
